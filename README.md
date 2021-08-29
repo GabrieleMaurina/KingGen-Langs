@@ -26,6 +26,8 @@ These are the steps to take to submit your translation:
 
 Once a translation is approved, it will appear in the next release of KingGen.
 
+You can also submit a pull request for an existing translation if you want to improve it, or fix it, or add missing parts.
+
 ## Rules
 These rules must be followed when creating a translation.
 * Do not change the file structure (do not add lines, do not change the lines order)
