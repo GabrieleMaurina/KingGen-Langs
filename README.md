@@ -29,6 +29,7 @@ Once a translation is approved, it will appear in the next release of KingGen
 ## Rules
 These rules must be followed when creating a translation.
 * Do not change the file structure (do not add lines, do not change the lines order)
+* Edit ONLY the text to the right of the character "=". The part to the left is used by KingGen to identify the string and must be left untouched
 * Translate accurately (find the translation most similar in meaning to the English version)
 * Do not add words or text that is not explicity stated in the English version. (Do not change the meaning, do not add meaning)
 * Use clear language
