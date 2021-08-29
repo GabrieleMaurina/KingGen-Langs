@@ -32,6 +32,8 @@ These rules must be followed when creating a translation.
 * Edit ONLY the text to the right of the character "=". The part to the left is used by KingGen to identify the string and must be left untouched
 * Translate accurately (find the translation most similar in meaning to the English version)
 * Do not add words or text that is not explicity stated in the English version. (Do not change the meaning, do not add meaning)
+* Respect the puctuation. Leave periods and commas where they are.
+* Respect the capitalization.
 * Use clear language
 * Do not use slang
 * Do not use swear words or offensive language (all translations will be double checked)
