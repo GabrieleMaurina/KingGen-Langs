@@ -24,7 +24,7 @@ These are the steps to take to submit your translation:
 * create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * wait for the request to be checked and approved
 
-Once translations are approved, they will appear in the next release of KingGen
+Once a translation is approved, it will appear in the next release of KingGen
 
 ## Rules
 These rules must be followed when creating a translation.
