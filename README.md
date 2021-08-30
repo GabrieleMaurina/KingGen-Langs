@@ -7,10 +7,10 @@ This repo contains text files that are used by KingGen to translate its GUI into
 ## Contributions
 If you can speak a language other than English and you would like to see KingGen translated into your language, than your help is welcome!
 You are going to need:
-* a [git](https://git-scm.com/) client
-* a text editor
-* good knowledge of English
-* good knowledge of a language other than English
+* A [git](https://git-scm.com/) client
+* A text editor
+* Good knowledge of English
+* Good knowledge of a language other than English
 
 ## Steps
 These are the steps to take to submit your translation:
