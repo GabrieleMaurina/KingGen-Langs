@@ -13,8 +13,9 @@ You are going to need:
 * Good knowledge of a language other than English
 
 ## Steps
-These are the steps to take to submit your translation:
-* [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) this repo
+These are the steps to take to submit a new translation:
+* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo
+* [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your forked repo
 * Create a new [branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches) with the name of the language you are intending to translate. The name must be in English and must be lowercase (e.g. russian, german, italian, spanish...)
 * Switch to the newly created branch
 * Copy the file en_us.txt and rename it to match the locale of the language you want to translate into (e.g. ru_ru.txt, de_de.txt, it_it.txt, es_es.txt...). The file name must be lowercase
@@ -26,7 +27,7 @@ These are the steps to take to submit your translation:
 
 Once a translation is approved, it will appear in the next release of KingGen.
 
-You can also submit a pull request for an existing translation if you want to improve it, or fix it, or add missing parts.
+You can also submit a pull request for an existing translation if you want to improve it, or fix it, or add missing parts. In that case you don't need to create a new branch, but use the existing branch of the language.
 
 ## Rules
 These rules must be followed when creating a translation.
