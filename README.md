@@ -44,4 +44,4 @@ These rules must be followed when creating a translation.
 * Do not use swear words or offensive language (all translations will be double checked)
 
 ## Can't use git?
-If you can't use git and you would like to contribute, you can still help! Create the translation file (respecting all the editing rules) and get in touch either here or on the forum page. Your translation will be added by an admin.
+If you can't use git and you would like to contribute, you can still help! Create the translation file (respecting all the editing rules) and get in touch either here or on the [forum page](https://community.7daystodie.com/topic/23988-kinggen-a-random-world-generator-for-7-days-to-die/). Your translation will be added by an admin.
