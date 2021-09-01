@@ -37,7 +37,8 @@ These rules must be followed when creating a translation.
 * Do not add words or text that is not explicity stated in the English version. (Do not change the meaning, do not add meaning)
 * Respect the puctuation. Leave periods, commas and spaces where they are
 * Respect the capitalization
-* Do not translate the words: POI and KingGen
+* Do not translate words such as "POI" and "KingGen"
+* Be consistent, translate the same word always in the same way
 * Use clear language
 * Do not use slang
 * Do not use swear words or offensive language (all translations will be double checked)
