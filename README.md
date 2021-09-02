@@ -33,6 +33,7 @@ You can also submit a pull request for an existing translation if you want to im
 These rules must be followed when creating a translation.
 * Do not change the file structure (do not add lines, do not change the lines order)
 * Edit ONLY the text to the right of the character "=". The part to the left is used by KingGen to identify the string and must be left untouched
+* Do not translate section heades (e.g. "#POIS")
 * Translate accurately (find the translation most similar in meaning to the English version)
 * Do not add words or text that is not explicity stated in the English version. (Do not change the meaning, do not add meaning)
 * Respect the puctuation. Leave periods, commas and spaces where they are
