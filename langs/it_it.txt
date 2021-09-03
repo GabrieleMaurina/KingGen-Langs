@@ -1,0 +1,266 @@
+#TITLE
+loading = Caricamento
+version_sug = Versione di KingGen, nel formato <maggiore>.<minore>.<patch>. È fortemente consigliato di usare sempre l'ultima versione disponibile
+outdated = Nuova versione disponibile!
+outdated_sug = Questa versione di KingGen è obsoleta. Scarica l'ultima versione dalla pagina web di KingGen
+title_sug = Generatore di mondi di KingSlayer. Il migliore generatore di mondi per 7 Days to Die!
+subtitle_sug = Un software per generare proceduralmente e casualmente mondi per 7 Days to Die
+rwg = Generatore di Mondi Casuali
+explanation_sug = Genera mondi con KingGen, giocali con 7 Days to Die. Una volta che hai generato un mondo, copialo nella cartella dei mondi di 7 Days to Die
+web_page = Pagina web di KingGen
+url_sug = Visita la pagina web ufficiale di KingGen nei forum di 7 Days to Die, dove puoi scaricare l'ultima versione, leggere la guida, riportare errori e chiedere aiuto
+
+
+
+#SETTINGS
+settings = Impostazioni
+settings_sug = Impostazioni principali di KingGen. Genera semplicemente se non sai cosa stai facendo!
+name = Nome
+name_sug = Nome del mondo generato. La cartella del modno avrà questo nome
+change = Cambia
+size = Dimensione
+size_sug = Dimensione del mondo generato. I mondi sono quadrati e la "dimensione" si riferisce alla lunghezza in blocchi del lato. K significa 1024 blocchi, quindi un mondo di 4K è un quadrato con i lati lunghi 4096 blocchi
+seed = Seme
+seed_sug = Seme usato per la generazione. Lascia vuoto per un seme casuale. Usare gli stessi semi, genera gli stessi mondi. Usare semi diversi, genera mondi diversi.
+open_advanced = Impostazione avanzate
+open_advanced_sug = Apri le impostazione avanzate (Tab)
+close_advanced = Indietro
+close_advanced_sug = Chiudi le impostazione avanzate (Tab)
+worlds_kinggen = Apri i mondi di KingGen
+worlds_kinggen_sug = Apri la cartella dei mondi di KingGen. Qui è dove i mondi generati verranno salvati. Per giocare un mondo generato, devi copiarlo manualmente nella cartella dei mondi di 7 Days to Die
+worlds_7dtd = Apri i mondi di 7 Days to Die
+worlds_7dtd_sug = Apri la cartella dei mondi di 7 Days to Die. Qui è dove dovrai copiare i mondi generati
+open_world = Carica mondo
+open_world_sug = Carica mondo pregenerato. L'immagine di anteprima verrà mostrata e tutte le impostazioni verranno importate
+select_world_folder = Seleziona la cartella del mondo
+generate_sug = Genera il mondo. KingGen creerà una cartella con lo stesso nome del mondo. Tu la devi copiare manualmente nella cartella dei mondi di 7 Days to Die (Enter)
+stop_sug = Interrompi la generazione (Esc)
+
+
+
+#POIS
+pois = Punti di Interesse (POI)
+pois_name_sug = Cambia come e quali POI vengono piazzati. I POI sono punti di interesse, essi sono edifici, rovine, grotte, etc...
+traders_num = Numero di commercianti
+traders_sug = Tasso di piazzamento di commercianti. Quanto è probabile che una città/cittadina contenga un commerciante. I commercianti vengono piazzati nelle città, al massimo uno per centro abitato
+traders_location = Posizione dei commercianti
+traders_location_sug = Posizione dei commercianti. Dove i commercianti saranno piazzati. Puoi scegliere tra città, landa selvaggia e ovunque
+pois_num = Numero di POI nella landa selvaggia
+pois_sug = Tasso di piazzamento di POI nella landa selvaggia. Quanti POI casuali, non connessi da strade, il mondo conterrà nella landa selvaggia
+pois_list = Lista di POI personalizzata
+pois_list_sug = Lista di POI personalizzata da usare per la generazione. I POI personalizzati devono essere installati correttamente. Leggi la guida sulla pagina web di KingGen
+gen_pois = Genera lista di POI personalizzata
+gen_pois_sug =  Genera lista di POI personalizzata a partire da una cartella di POI e salvala in un file di testo. Potrai poi usare questa lista per generare un mondo
+select_pois_folder = Seleziona la cartella dei POI
+save_pois_list = Salva la lista di POI come
+pois_list_filename = listapoi
+pois_list_file = file lista POI
+gen_vanilla_pois = Genera lista di POI vanilla
+gen_vanilla_pois_sug = Genera lista di POI vanilla. Potrai poi usare questa lista come base per creare la tua lista di POI personalizzata
+vanilla_pois_list_filename = listapoi_vanilla
+poi_mode = Modalità POI
+poi_mode_sug = Attiva la modalità POI. Tutti i POI saranno predisposti una di fianco all'altro in un mondo piatto, ricoperto da foresta. Questa modalità è solamente per testare POI e liste.
+
+
+
+#CITIES, TOWNS AND VILLAGES
+cities_towns_villages = Città, Cittadine e Villagi
+cities_name_sug = Cambia come città, cittadine e villagi vengono generati
+cities_size = Dimensione città
+cities_sug = Dimensione delle città generate
+towns_size = Dimensione cittadine
+towns_sug = Dimensione delle cittadine generate
+villages_size = Dimensione villagi
+villages_sug = Dimensione dei villagi generati
+cities_num = Numero città
+cities_num_sug = Numero delle città generate
+towns_num = Numero cittadine
+towns_num_sug = Numero delle cittadine generate
+villages_num = Numero villagi
+villages_num_sug = Numero dei villagi generati
+city_grid = Dimensione griglia città
+city_grid_sug = Dimensione della griglia stradale delle città. Grandi POI personalizzati potrebbero aver bisogno di griglie grandi
+town_grid = Dimensione griglia cittadine
+town_grid_sug = Dimensione della griglia stradale delle cittadine. Grandi POI personalizzati potrebbero aver bisogno di griglie grandi
+village_grid = Dimensione griglia villagi
+village_grid_sug = Dimensione della griglia stradale dei villagi. Grandi POI personalizzati potrebbero aver bisogno di griglie grandi
+
+
+
+#LANDSCAPE
+landscape = Paesaggio
+landscape_sug = Cambia come il terreno ed i biomi sono generati
+single_biome = Bioma singolo
+single_biome_sug = Rendi l'intero mondo un singolo bioma. Lascia "niente" per una generazione normale. Questa opzione sovrascrive le altre opzioni dei biomi
+desert_size = Dimensione deserto
+desert_sug = Dimensione del bioma deserto
+snow_size = Dimensione neve
+snow_sug = Dimensione del bioma neve
+burn_size = Dimensione foresta bruciata
+burnt_sug = Dimensione del bioma foresta bruciata
+waste_size = Dimensione terra desolata
+waste_sug = Dimensione del bioma terra desolata
+lakes_size = Dimensione laghi
+lakes_sug = Dimensione dei laghi
+mountains_size = Domensione montagne
+mountains_sug = Dimensione delle montagne
+terrain_roughness = Irregolarità terreno
+terrain_roughness_sug = Irregolarità del terreno. Una maggiore irregolarità significa più colline e dossi. Una minore irregolarità significa un mondo più piano
+spacing = Spaziatura
+spacing_sug = Quanto lontani sono posizionati i biomi. Scegli "grande" per biomi più grandi e posizionati più lontani gli uni dagli altri. Secgli "piccolo" per biomi più piccoli e vicini gli uni con gli altri
+
+
+
+#MISC
+misc = Varie
+misc_sug = Varie impostazioni utili
+skip_preview = Salta l'anteprima
+skip_preview_sug = Salta la generazione dell'anteprima della mappa. Rende la generazione molto più veloce e richiede meno RAM
+save_png_hm = Salva la mappa delle altezze in png
+save_png_hm_sug = Salva una coia addizionale della mappa delle altezze in formato png
+spawns = Numero punti di partenza
+spawns_sug = Numero di punti di partenza per i giocatori. Scegli "uno" se vuoi partire con i tuoi amici
+multiple_generations = Generazioni multiple
+multiple_generations_sug = Genera molti mondi. I mondi verranno generati uno dopo l'altro e saranno chiamati <nome mondo>1, <nome mondo>2, <nome mondo>3... I semi saranno <seme>1, <seme>2, <seme>3...
+output_folder = Cartella di salvataggio
+output_folder_sug = Cartella dove i mondi generati vengono salvati. Lascia vuoto per usare la stessa cartella dove si trova KingGen
+select_output_folder = Seleziona cartella di salvataggio
+do_not_overwrite = Non sovrascrivere
+check_output_sug = Controlla se un mondo con lo stesso nome esiste già e se è così, non lo sovrascrive
+language = Linguaggio
+language_sug = Cambia linguaggio usato da KingGen
+reset = Ripristina impostazioni
+reset_sug = Ripristina tutte le impostazioni ai valori originali
+
+
+
+#BORDER
+border = Bordo
+border_name_sug = Cambia l'aspetto del bordo del mondo
+border_type = Tipologia bordo
+border_type_sug = Tipologia di bordo del mondo. Può essere acqua, montagna, piatto oppure nessun bordo
+border_biome = Bioma bordo
+border_biome_sug = Bioma del bordo del mondo. Lascia "niente" per il bioma originale
+border_size = Dimensione bordo
+border_size_sug = Dimensione del bordo del mondo. Quanto lontano dal bordo del mondo smette di piazzare POI
+
+
+
+#ELEVATION
+elevation = Altitudine
+elevation_sug = Altitudine di varie cosa cose
+water_level = Livello acqua
+water_level_sug = Livello dell'acqua nel mondo. Qualsiasi cosa sotto questa altitudine sarà sottacqua. Predefinito è
+cities_level = Livello città
+cities_level_sug = Livello delle città nel mondo. Predefinito è
+snow_level = Livello neve
+snow_level_sug = Livello della neve nel mondo. Qualsiasi cosa sopra questa altitudine coperta di neve. Lascia vuoto per predefinito. Questa opzione sovrascrive "Dimensione neve" nella sezione Paesaggio
+
+
+
+#ADVANCED CUSTOMIZATION
+advanced_custom = Personalizzazione avanzata
+custom_name_sug = Generazione personalizzata avanzata. Importa mappa delle altezze, mappa dei biomi, mappa delle città e di più
+heightmap = Mappa altezze personalizzata
+heightmap_sug = Importa una mappa delle altezze personalizzata. La mappa delle altezze deve essere un file raw o png a 16 bit in scala di grigi, la cui dimensione corrisponde a quella del mondo. Puoi anche usare png a 8 bit, nel qual caso verrà arrotondato
+import_heightmap = Importa file mappa delle altezze
+heightmap_file = file mappa altezze
+community_heightmap = Mappa altezze dalla community
+community_heightmap_sug = Scarica una mappa delle altezze personalizzata dalla comminity. Se vuoi vedere una delle tue mappe delle altezze qui, contattaci sulla pagina web di KingGen
+smoothing = Arrotondamento mappa altezze
+smoothing_sug = Arrotondamento mappa delle altezze importata. L'arrotondamento rimoverà spigoli affilati e scalini. Evita l'arrotondamento se non vuoi che la tua mappa delle altezze venga modificata
+biomes_map = Mappa biomi personalizzata
+biomes_map_sug = Importa una mappa dei biomi personalizzata. La mappa dei biomi deve essere un file png rgb a 24 bit, la cui dimensione corrisponde a quella del mondo
+import_biomes_map = Importa file mappa dei biomi
+biomes_map_file = file mappa biomi
+default_biome = Bioma predefinito
+default_biome_sug = Bioma predefinito per sostituire eventuali colori sbagliati nella mappa dei biomi. Suggerimento: usa i colori giusti!
+cities_map = Mappa città personalizzata
+cities_map_sug = Importa una mappa delle città personalizzata. La mappa delle città determina dove città, cittadine e villaggi sono piazzati. La mappa delle città deve essere un file png rgb a 24 bit, la cui dimensione corrisponde a quella del mondo
+import_cities_map = Importa file png della mappa delle città
+cities_map_file = file mappa citta
+zoning_map = Mappa zone personalizzata
+zoning_map_sug = Importa una mappa delle zone personalizzata. La mappa delle zone determina quale tipo di POI puo essere piazzato in certe aree. La mappa delle zone deve essere un file png rgb a 24 bit, la cui dimensione corrisponde a quella del mondo
+import_zoning_map = Importa file png della mappa delle zone
+zoning_map_file = file mappa zone
+water_map = Mappa acqua personalizzata
+water_map_sug = Importa una mappa dell'acqua personalizzata. La mappa dell'acqua deve essere un file png a 8 bit in scala di grigi, la cui dimensione corrisponde a quella del mondo. Acqua sarà generata all'altitudine della mappa. 0 significa no acqua
+import_water_map = Importa file png della mappa dell'acqua
+water_map_file = file mappa acqua
+splat = file splat personalizzato
+splat_sug = Importa un file splat personalizzato. Il file splat contiente i dati delle strade. Il file splat deve essere un file png rgba a 32 bit, la cui dimensione corrisponde a quella del mondo
+import_splat_file = Importa file png splat
+splat_file = file splat
+radiation_map = Mappa radiazione personalizzata
+radiation_map_sug = Importa una mappa della radiazione personalizzata. La mappa della radiazione determina dove si trova la radiazione. La mappa della radiazione deve essere un file png rgb a 24 bit, la cui dimensione corrisponde a quella del mondo
+import_radiation_map = Importa file png mappa radiazione
+radiation_map_file = file mappa radiazione
+
+
+
+#TOOLS
+tools = Strumenti
+tools_name_sug = Strumenti utili per i creatori di mappe
+png_raw = PNG in RAW
+png_raw_sug = Converti mappa delle altezze png in mappa delle altezze raw
+import_heightmap_png = Importa file png mappa altezze
+save_heightmap_raw = Salva file raw della mappa delle altezze
+raw_png16 = RAW in 16-bit PNG
+raw_png16_sug = Converti mappa delle altezze raw in mappa delle altezze png a 16 bit
+import_heightmap_raw = Importa file raw mappa altezze
+save_heightmap_png_16 = Salva file png a 16 bit della mappa delle altezze
+raw_png8 = RAW in 8-bit PNG
+raw_png8_sug = Converti mappa delle altezze raw in mappa delle altezze png a 8 bit
+save_heightmap_png_8 = Salva file png a 8 bit della mappa delle altezze
+biome_fix = Riparazione mappa biomi
+biome_fix_sug = Ripara file biomes.png. Riempie aree mancati. Rimpiazza i colori sbagliati. Rimuove la trasparenza se presente
+default_biome = Biome predefinito
+save_biomes_map_png = Salva file png della mappa dei biomi
+splat_fix = Riparazione splat
+splat_fix_sug = Ripara il file splat.png. Controlla i colori e la trasparenza. Aggiunge la trasparenza se assente
+save_splat_png = Salva file png splat
+preview_gen = Generazione anteprima
+preview_gen_sug = Genera un'immagine di anteprima a partire da una cartella del mondo
+waterinfo_gen = Generazione Waterinfo
+waterinfo_gen_sug = Genera waterinfo.xml da una mappa dell'acqua. La mappa dell'acqua deve essere un file png a 8 bit in scala di grigi, la cui dimensione corrisponde alla dimensionde del mondo. Acqua sarà generata all'altitudine della mappa. 0 significa no acqua
+save_water_map_png = Salva file waterinfo.xml
+
+
+
+#PREVIEW
+stats_sug = Mostra le statistiche di generazione riguardanti il piazzamento di POI e centri abitati
+search_sug = Cerca un punto di interesse per nome (Ctrl + F)
+
+
+
+#GENERAL
+running = In esecuzione
+select = Seleziona
+
+
+
+#COMBOBOX VALUES
+large = grande
+medium = medio
+small = piccolo
+none = niente
+few = pochi
+one = uno
+lots = tanti
+giant = gigante
+huge = enorme
+increased = aumentato
+decreased = decrementato
+pine_forest = foresta di abeti
+desert = deserto
+snow = neve
+burnt_forest = foresta bruciata
+wasteland = terra desolata
+no = no
+water = acqua
+mountain = montagna
+flat = piatto
+cities = città
+wilderness = landa selvaggia
+anywhere = ovunque
+little = piccolo
