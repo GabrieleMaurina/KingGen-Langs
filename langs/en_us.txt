@@ -1,0 +1,266 @@
+#TITLE
+loading = Loading
+version_sug = Version of KingGen, in the form <major>.<minor>.<patch>. It is strongly advised to always use the latest version available
+outdated = Newer version available!
+outdated_sug = This version of KingGen is outdated. Download the newest version from KingGen web page
+title_sug = KingSlayer's world Generator. The best 7 Days to Die world generator!
+subtitle_sug = A software to procedurally and randomly generate worlds for 7 Days to Die
+rwg = Random World Generator
+explanation_sug = Generate worlds with KingGen, play them with 7 Days to Die. Once you have generated a world, copy it inside 7 Days to Die worlds folder
+web_page = KingGen web page
+url_sug = Visit KingGen official web page on the 7 Days to Die forums, where you can download the latest version, read the guide, report bugs and ask for help
+
+
+
+#SETTINGS
+settings = Settings
+settings_sug = Main KingGen settings. Just generate if you do not know what you are doing!
+name = Name
+name_sug = Name of the generated world. The world folder will have this name
+change = Change
+size = Size
+size_sug = Size of the generated world. Worlds are squares and "size" refers to the length in blocks of their side. K means 1024 blocks, so a 4K world is a square with sides 4096 blocks long
+seed = Seed
+seed_sug = Seed used for generation. Leave empty for a random seed. Using same seeds, generates same worlds. Using different seeds, generates different world
+open_advanced = Advanced settings
+open_advanced_sug = Open advanced settings (Tab)
+close_advanced = Back
+close_advanced_sug = Close advanced settings (Tab)
+worlds_kinggen = Open KingGen worlds
+worlds_kinggen_sug = Open KingGen worlds folder. This is where the generated worlds will be saved. To play a generated world, you have to manually copy it inside 7 Days to Die worlds folder
+worlds_7dtd = Open 7 Days to Die worlds
+worlds_7dtd_sug = Open 7 Days to Die worlds folder. This is where you should copy the generated worlds into
+open_world = Load world
+open_world_sug = Load pre-generated world. The preview image will be displayed and all settings will be imported
+select_world_folder = Select world folder
+generate_sug = Generate the world. KingGen will create a folder with the name of the world. You have to manually copy it into the worlds folder of 7 Days to Die (Enter)
+stop_sug = Interrupt the generation (Esc)
+
+
+
+#POIS
+pois = Points of Interest (POIs)
+pois_name_sug = Change how and which POIs are spawned. POIs are points of interest, they are buildings, ruins, caves, etc...
+traders_num = Number of traders
+traders_sug = Spawn rate of traders. How likely is a city/town to contain a trader. Traders spawn only inside cities/towns, maximum one per hub
+traders_location = Traders location
+traders_location_sug = Location of traders. Where traders will be placed. You can choose between cities, wilderness and anywhere
+pois_num = Number of POIs in the wild
+pois_sug = Spawn rate of POIs in the wilderness. How many random POIs the world will contain in the wilderness, not connected with roads
+pois_list = Custom POIs list
+pois_list_sug = Custom list of POIs to use for generation. Custom POIs must be correctly installed. Read the guide on KingGen web page
+gen_pois = Generate custom POIs list
+gen_pois_sug = Generate custom POIs list from POIs folder and save it into a txt file. You can than use this list to generate the world
+select_pois_folder = Select POIs folder
+save_pois_list = Save POIs list as
+pois_list_filename = poislist
+pois_list_file = POIs list file
+gen_vanilla_pois = Generate vanilla POIs list
+gen_vanilla_pois_sug = Generate vanilla POIs list. You can than use this list as base to create your own custom POIs list
+vanilla_pois_list_filename = vanilla_poislist
+poi_mode = POI mode
+poi_mode_sug = Activate POI Mode. All POIs will be placed side by side in a flat, forest world. This mode is only for testing POIs and lists
+
+
+
+#CITIES, TOWNS AND VILLAGES
+cities_towns_villages = Cities, Towns and Villages
+cities_name_sug = Change how cities, towns and villages are generated
+cities_size = Cities size
+cities_sug = Size of generated cities
+towns_size = Towns size
+towns_sug = Size of generated towns
+villages_size = Villages size
+villages_sug = Size of generated villages
+cities_num = Cities number
+cities_num_sug = Number of cities generated
+towns_num = Towns number
+towns_num_sug = Number of towns generated
+villages_num = Villages number
+villages_num_sug = Number of villages generated
+city_grid = Cities grid size
+city_grid_sug = Size of streets grid in cities. Large custom POIs might require a larger grid
+town_grid = Towns grid size
+town_grid_sug = Size of streets grid in towns. Large custom POIs might require a larger grid
+village_grid = Villages grid size
+village_grid_sug = Size of streets grid in villages. Large custom POIs might require a larger grid
+
+
+
+#LANDSCAPE
+landscape = Landscape
+landscape_sug = Change how terrain and biomes are generated
+single_biome = Single biome
+single_biome_sug = Make the whole world a single biome. Leave "none" for normal generation. This option overrides the other biomes options
+desert_size = Desert size
+desert_sug = Size of desert biome
+snow_size = Snow size
+snow_sug = Size of snow biome
+burn_size = Burnt forest size
+burnt_sug = Size of burnt forest biome
+waste_size = Wasteland size
+waste_sug = Size of wasteland biome
+lakes_size = Lakes size
+lakes_sug = Size of lakes
+mountains_size = Mountains size
+mountains_sug = Size of mountains
+terrain_roughness = Terrain roughness
+terrain_roughness_sug = Roughness of terrain. Increased roughness means more hills and bumps. Decreased roughness means flatter world
+spacing = Spacing
+spacing_sug = How far away biomes are spaced. Choose "large" for larger and farther spaced biomes. Choose "small" for smaller and closer spaced biomes
+
+
+
+#MISC
+misc = Miscellaneous
+misc_sug = Miscellaneous useful settings
+skip_preview = Skip preview
+skip_preview_sug = Skip rendering of preview map. It makes the generation a lot faster and it requires less RAM
+save_png_hm = Save png heightmap
+save_png_hm_sug = Save an additional copy of the heightmap in png format
+spawns = Number of spawn points
+spawns_sug = Number of spawn points for players. Choose "one" if you want to spawn with your friends
+multiple_generations = Multiple generations
+multiple_generations_sug = Generate multiple worlds. Worlds will be generated one after the other and they will be named <world name>1, <world name>2, <world name>3... The seeds will be <seed>1, <seed>2, <seed>3...
+output_folder = Output folder
+output_folder_sug = Folder where the generated worlds are saved. Leave empty to use the same directory where KingGen is located
+select_output_folder = Select output folder
+do_not_overwrite = Do not overwrite
+check_output_sug = Checks if a world with the same name already exists and if so, it does not overwrite it
+language = Language
+language_sug = Change language used by KingGen
+reset = Reset settings
+reset_sug = Reset all settings to default values
+
+
+
+#BORDER
+border = Border
+border_name_sug = Change how the world border looks like
+border_type = Border type
+border_type_sug = Type of world border. Can be water, mountain, flat or no border at all
+border_biome = Border biome
+border_biome_sug = Biome of world border. Leave "none" for default biome
+border_size = Border size
+border_size_sug = Size of world border. How far from the world's edge stop placing POIs
+
+
+
+#ELEVATION
+elevation = Elevation
+elevation_sug = Elevation of various things
+water_level = Water level
+water_level_sug = Level of water in the world. Anything below this elevation will be underwater. Default is {WATER_LEVEL}
+cities_level = Cities level
+cities_level_sug = Level of cities in the world. Default is {CITIES_LEVEL}
+snow_level = Snow level
+snow_level_sug = Level of snow in the world. Anything above this elevation will be covered in snow. Leave empty for default. This option overrides the "snow size" in the landscape section
+
+
+
+#ADVANCED CUSTOMIZATION
+advanced_custom = Advanced customization
+custom_name_sug = Advanced custom generation. Import heightmap, biomes map, cities map and more
+heightmap = Custom heightmap
+heightmap_sug = Import a custom heightmap. The heightmap must be a raw file or a 16-bit, grayscale, png file, whose size matches the world size. You can also use 8-bit png, in which case it will be smoothed out
+import_heightmap = Import heightmap file
+heightmap_file = heightmap file
+community_heightmap = Community heightmap
+community_heightmap_sug = Download a custom heightmap from the community. If you want to see one of your heightmaps here, contact us on the KingGen web page
+smoothing = Heightmap smoothing
+smoothing_sug = Smooth imported heightmap. Smoothing will remove sharp edges and steps. Avoid smoothing if you do not want your heightmap to be modified
+biomes_map = Custom biomes map
+biomes_map_sug = Import a custom biomes map. The biomes map must be a 24-bit, rgb, png file, whose size matches the world size
+import_biomes_map = Import biomes map png file
+biomes_map_file = biomes map file
+default_biome = Default biome
+default_biome_sug = Default biome to replace possible wrong colors in the biomes map. Suggestion: use the right colors!
+cities_map = Custom cities map
+cities_map_sug = Import a custom cities map. The cities map determines where cities, towns and villages are placed. The cities map must be a 24-bit, rgb, png file, whose size matches the world size
+import_cities_map = Import cities map png file
+cities_map_file = cities map file
+zoning_map = Custom zoning map
+zoning_map_sug = Import a custom zoning map. The zoning map determines which type of POIs can be placed in certain areas. The zoning map must be a 24-bit, rgb, png file, whose size matches the world size
+import_zoning_map = Import zoning map png file
+zoning_map_file = zoning map file
+water_map = Custom water map
+water_map_sug = Import a custom water map. The water map must be an 8-bit, grayscale, png image whose size matches the world size. Water will be generated at the elevation of the map. 0 means no water
+import_water_map = Import water map png file
+water_map_file = water map file
+splat = Custom splat file
+splat_sug = Import a custom splat file. The splat file contains roads data. The splat file must be a 32-bit, rgba, png file, whose size matches the world size
+import_splat_file = Import splat png file
+splat_file = splat file
+radiation_map = Custom radiation map
+radiation_map_sug = Import a custom radiation map. The radiation map determineLas where the radiation is. The radiation map must be a 24-bit, rgb, png file, whose size matches the world size
+import_radiation_map = Import radiation map png file
+radiation_map_file = radiation map file
+
+
+
+#TOOLS
+tools = Tools
+tools_name_sug = Useful tools for map makers
+png_raw = PNG to RAW
+png_raw_sug = Convert png heightmap to raw heightmap
+import_heightmap_png = Import heightmap png file
+save_heightmap_raw = Save heightmap raw file
+raw_png16 = RAW to 16-bit PNG
+raw_png16_sug = Convert raw heightmap to 16-bit png heightmap
+import_heightmap_raw = Import heightmap raw file
+save_heightmap_png_16 = Save heightmap 16-bit png file
+raw_png8 = RAW to 8-bit PNG
+raw_png8_sug = Convert raw heightmap to 8-bit png heightmap
+save_heightmap_png_8 = Save heightmap 8-bit png file
+biome_fix = Biomes map fix
+biome_fix_sug = Fix biomes.png file. Fills missing spots. Replaces wrong colors. Removes alpha channel if present
+default_biome = Default biome
+save_biomes_map_png = Save biomes map png file
+splat_fix = Splat fix
+splat_fix_sug = Fix splat.png file. Checks colors and alpha. Adds alpha channel is absent
+save_splat_png = Save splat png file
+preview_gen = Preview generation
+preview_gen_sug = Generate a preview image from a world folder
+waterinfo_gen = Waterinfo generation
+waterinfo_gen_sug = Generate waterinfo.xml from a water map. The water map must be an 8-bit, grayscale, png image whose size matches the world size. Water will be generated at the elevation of the map. 0 means no water
+save_water_map_png = Save waterinfo.xml file
+
+
+
+#PREVIEW
+stats_sug = Show generation stats regarding POIs and hubs placement
+search_sug = Search POIs by name (Ctrl + F)
+
+
+
+#GENERAL
+running = Running
+select = Select
+
+
+
+#COMBOBOX VALUES
+large = large
+medium = medium
+small = small
+none = none
+few = few
+one = one
+lots = lots
+giant = giant
+huge = huge
+increased = increased
+decreased = decreased
+pine_forest = pine forest
+desert = desert
+snow = snow
+burnt_forest = burnt forest
+wasteland = wasteland
+no = no
+water = water
+mountain = mountain
+flat = flat
+cities = cities
+wilderness = wilderness
+anywhere = anywhere
+little = little
