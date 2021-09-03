@@ -5,7 +5,7 @@ Translations for the KingGen software for 7 Days to Die
 This repo contains text files that are used by KingGen to translate its GUI into different languages to help players who do not speak English. We are currently looking for volunteers to help with the translations.
 
 ## Contributions
-If you can speak a language other than English and you would like to see KingGen translated into your language, than your help is welcome!
+If you can speak a language other than English and you would like to see KingGen translated into your language, then your help is welcome!
 You are going to need:
 * A [git](https://git-scm.com/) client
 * A text editor
