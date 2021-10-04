@@ -1,0 +1,266 @@
+#TITLE
+loading = Laden
+version_sug = KingGen versie, op deze manier <major>.<minor>.<patch>. Je wordt sterk aangeraden om altijd de nieuwste versie te gebruiken
+outdated = Er is een update beschikbaar!
+outdated_sug = Deze versie van KingGen is verouderd. Download de nieuwste versie van de KingGen website
+title_sug = KingSlayer's wereld Generator. De beste 7 Days to Die wereld generator!
+subtitle_sug = Software om willekeurige werelden voor 7 days to die te genereren
+rwg = Willekeurige wereld Generator
+explanation_sug = Genereer werelden met KingGen, en speel deze met 7 days to die. Kopieer de wereld naar de 7 days to die folder, wanneer deze klaar is met genereren.
+web_page = KingGen web pagina
+url_sug = Bezoek de officiele KingGen website op de 7 days to die forums, hier kan je de nieuwste versie downloaden, de handleiding lezen, bugs rapporteren en om hulp vragen
+
+
+
+#SETTINGS
+settings = Instellingen
+settings_sug = Belangrijkste KingGen instellingen. Gewoon generenen als je niet weet wat je doet!
+name = Naam
+name_sug = Naam van de gegenereerde wereld. De folder met de wereld zal deze naam krijgen
+change = Pas aan
+size = Formaat
+size_sug = Formaat van de gegenereerde wereld. Werelden zijn vierkant en "formaat" verwijst naar het aantal blokken aan per kant. K betekent 1024 blokken, dus een 4k wereld is een vierkant met 4096 blokken per zijde
+seed = Seed
+seed_sug = Seed welke gebruikt wordt voor de willekeurige wereld generator. Laat leeg voor een willekeurige seed. Dezelfde seed zal altijd dezelfde wereld genereren, verschillende seeds, verschillende werelden.
+open_advanced = Geavanceerde instellingen
+open_advanced_sug = Open geavanceerde instellingen (Tab)
+close_advanced = Terug
+close_advanced_sug = Sluit geavanceerde instellingen (Tab)
+worlds_kinggen = Open KingGen werelden
+worlds_kinggen_sug = Open de folder KingGen Werelden. Dit is waar de gegenereerde wereld opgeslagen wordt. Om een gegenereerde wereld te spelen, zal je deze handmatig naar de 7 days to die worlds folder moeten kopieëren
+worlds_7dtd = Open 7 Days to Die worlds folder
+worlds_7dtd_sug = Open 7 Days to Die worlds folder. Dit is waar je de gegenereerde folder heen moet kopieeren
+open_world = Laad wereld
+open_world_sug = Laad eerder gegenereerde wereld. De preview afbeelding zal worden weergegeven en alle instellingen zullen geimporteerd worden
+select_world_folder = Selecteer wereld folder
+generate_sug = Genereer de wereld. KingGen zal een folder aanmaken met de naam van de wereld. Je zal deze handmatig naar de 7 days to die worlds folder moeten kopieëren (Enter)
+stop_sug = Onderbreek de wereld generatie (Esc)
+
+
+
+#POIS
+pois = Punten van interesse (POIs)
+pois_name_sug = Verander hoe en welke POIs geplaatst worden. POIs zijn punten van interesse, dit kunnen gebouwen zijn, ruïnes, grotten, etc...
+handelaars_num = Aantal handelaars
+handelaars_sug = Waarschijnlijkheid van handelaars. Hoe waarschijnlijk is het dat een stad/dorp een handelaar bevat. handelaars worden alleen in steden en dorpen geplaatst, maximaal 1 per stad/dorp
+handelaars_location = handelaars locatie
+handelaars_location_sug = Locatie van handelaars. Kies waar handelaars geplaatst worden. je kunt kiezen tussen steden, wildernis en overal
+pois_num = Aantal POIs in het wild
+pois_sug = Waarschijnlijkheid van POIs in de wildernis. Hoeveel willekurige POIs zonder weg ernaartoe de wildernis in de wereld zal bevatten
+pois_list = Op maat gemaakte lijst met POIs
+pois_list_sug = op maat gemaakte lijst met POIs die voor het genereren gebruikt worden. Aangepaste POIs moeten correct worden geïnstalleerd. Lees de instructies op de KingGen web pagina
+gen_pois = Genereer op maat gemaakte POIs lijst
+gen_pois_sug = Genereer een op maat gemaakte lijst met POIs vanuit de POIs folder en bewaar deze in een tekstbestand. Je kunt deze lijst gebruiken om de wereld te genereren
+select_pois_folder = Selecteer POIs folder
+save_pois_list = Bewaar POIs lijst als
+pois_list_bestandname = poislijst
+pois_list_bestand = POIs lijst bestand
+gen_vanilla_pois = Genereer vanilla POIs lijst
+gen_vanilla_pois_sug = Genereer vanilla POIs lijst. Je kunt deze lijst als basis gebruiken om je eigen op maat gemaakte lijst te maken
+vanilla_pois_list_bestandname = vanilla_poislijst
+poi_mode = POI modus
+poi_mode_sug = Activeer POI Modus. Alle POIs zullen op een rij gezet worden in een platte boswereld. Deze mode is alleen bedoeld om POIs en lijsten te testen
+
+
+
+#CITIES, TOWNS AND VILLAGES
+cities_towns_villages = Grote steden, stadjes en dorpen
+cities_name_sug = verander hoe grote steden, stadjes en dorpen gegenereerd worden
+cities_size = Grootte van steden
+cities_sug = Formaat van gegenereerde steden
+towns_size = Grootte van stadjes
+towns_sug = Formaat van gegenereerde stadjes
+villages_size = Grootte van dorpen
+villages_sug = Formaat van gegenereerde dorpen
+cities_num = Aantal steden
+cities_num_sug = Aantal steden dat gegenereerd wordt
+towns_num = Aantal stadjes
+towns_num_sug = Aantal stadjes dat gegenereerd wordt
+villages_num = Aantal dorpen
+villages_num_sug = Aantal dorpen dat gegenereerd wordt
+city_grid = Rastergrootte van steden
+city_grid_sug = Rastergrootte van de straten in steden. Grote POIs hebben mogelijk een groot raster nodig
+town_grid = Rastergrootte van stadjes 
+town_grid_sug = Rastergrootte van de straten in stadjes. Grote POIs hebben mogelijk een groot raster nodig
+village_grid = Rastergrootte van dorpen
+village_grid_sug = Rastergrootte van de straten in dorpen. Grote POIs hebben mogelijk een groot raster nodig
+
+
+
+#LANDSCAPE
+landscape = Landschap
+landscape_sug = Verander hoe terrein en biomen gegenereerd worden
+single_biome = Enkel bioom
+single_biome_sug = Maak de hele wereld één enkel bioom. Laat op "geen" om een gewone wereld te genereren. Deze optie overschrijft de andere bioom opties
+desert_size = Afmeting woestijn
+desert_sug = Grootte van de woestijn bioom
+snow_size = Afmeting sneeuw
+snow_sug = Grootte van de sneeuw bioom
+burnt_size = Afmeting verbrand bos
+burnt_sug = Grootte van het verbrande bos bioom
+waste_size = Afmeting woesternij
+waste_sug = Grootte van het woesternij bioom
+lakes_size = Afmeting meren
+lakes_sug = Grootte van de meren
+mountains_size = Afmeting bergen
+mountains_sug = Grootte van de bergen
+terrain_roughness = Ruwheid terrein
+terrain_roughness_sug = Ruwheid van het terrein. Verhoogde ruwheid betekent meer heuvels en hobbels, verminderde ruwheid betekent plattere wereld
+spacing = Tussenruimte
+spacing_sug = Hoeveel tussenruimte biomen bevatten. Kies "groot" voor grotere en verder uit elkaar liggende biomen. Kies "klein" voor kleinere en dicht op elkaar liggende biomen
+
+
+
+#MISC
+misc = Diverse
+misc_sug = Diverse handige instellingen
+skip_preview = Sla voorbeeld over
+skip_preview_sug = Sla het genereren van een voorbeeldkaart over. Het maakt het genereren veel sneller en vermindert het RAM gebruik
+save_png_hm = Sla png hoogtekaart op
+save_png_hm_sug = Sla een aanvullde kopie van de hoogtemap op in png formaat
+spawns = Aantal spawnpunten
+spawns_sug = Aantal spawnpunten voor spelers. Kies "één" als je samen met je vrienden wilt spawnen
+multiple_generations = Meerdere generaties
+multiple_generations_sug = Genereer meerdere werelden. Werelden zullen na elkaar gegenereerd worden en zullen <wereldnaam>1, <wereldnaam>2, <wereldnaam>3... De seeds zullen <seed>1, <seed>2, <seed>3... zijn
+output_folder = Output folder
+output_folder_sug = Folder waar de gegenereerde werelden opgeslagen worden, laat leeg als je dezelfde folder wil gebruiken als waar KingGen is opgeslagen
+select_output_folder = Selecteer output folder
+do_not_overwrite = Niet overschrijven
+check_output_sug = Controleert of een wereld met dezelfde naam reeds bestaat. Zo ja, wordt deze niet overschreven
+language = Taal
+language_sug = Verander de taal in KingGen, als je een vertaling wilt toevoegen, bezoek de KingGen webpagina
+reset = Reset instellingen
+reset_sug = Herstel alle instellingen naar de standaard waardes
+
+
+
+#BORDER
+border = Grens
+border_name_sug = Verander hoe de wereld grens eruit ziet
+border_type = grens type
+border_type_sug = Type wereldgrens, kan water, bergen, plat of helemaal niets zijn
+border_biome = grensbioom
+border_biome_sug = Bioom van de wereldgrens, laat op "geen" om standaard bioom te gebruiken
+border_size = Grensafmeting
+border_size_sug = Afmeting van de wereld grens. Hoe ver uit de rand POis geplaatst worden
+
+
+
+#ELEVATION
+elevation = Verhoging
+elevation_sug = Verhoging van bepaalde dingen
+water_level = Waterniveau
+water_level_sug = Niveau van water in de wereld. Alles onder dit niveau zal onder water staan. Standaard is
+cities_level = Niveau steden 
+cities_level_sug = Niveau van steden in de wereld. Standaard is
+snow_level = Sneeuwniveau
+snow_level_sug = Niveau van sneeuw in de wereld. Alles boven dit niveau zal onder een sneeuwlaag liggen. Laat leeg voor standaard. Deze optie overschrijft de afmeting sneeuw optie in de landschap sectie
+
+
+
+#ADVANCED CUSTOMIZATION
+advanced_custom = Geavanceerde aanpassingen
+custom_name_sug = Geavanceerde op maat gemaakte generatie. Importeer hoogtekaart, bioomkaart, stedenkaart en meer
+hoogtekaart = Op maat gemaakte hoogtekaart
+hoogtekaart_sug = Importeer een op maat gemaakte hoogtekaart. De hoogtekaart moet een raw bestand zijn, of een 16-bit grayscale png bestand, de afmeting moet gelijk aan de wereld afmeting zijn. Je kunt ook een 8-bit png gebruiken, in dat geval zal deze gladgestreken worden
+import_hoogtekaart = Importeer hoogtekaart bestand
+hoogtekaart_bestand = Hoogtekaart bestand
+community_hoogtekaart = Community hoogtekaart
+community_hoogtekaart_sug = Download een op maat gemaakte hoogtekaart van de community. Als je je eigen hoogtekaart wilt delen, neem contact met ons op via de KingGen web pagina
+smoothing = Hoogtekaart gladstrijken
+smoothing_sug = Strijk geimporteerde hoogtekaart glad. Gladstrijken verwijdert scherpe randen en tredes. Als je je hoogtekaart niet wilt aanpassen, mijdt deze optie
+biomes_map = aangepaste bioomkaart
+biomes_map_sug = Importeer een aangepaste bioomkaart. De bioomkaart moet een 24-bit, rgb, png bestand zijn, met dezelfde grootte als de wereldafmeting.
+import_biomes_map = Importeer een bioomkaart png bestand
+biomes_map_bestand = Bioomkaart bestand
+default_biome = Standaard bioom
+default_biome_sug = Standaard bioom om mogelijk verkeerde kleuren in de bioomkaart te vervangen. Suggestie: gebruik de juiste kleuren!
+cities_map = Aangepaste stedenkaart
+cities_map_sug = Importeer een aangepaste stedenkaart. De stedenkaart bepaalt waar steden, stadjes en dorpen geplaatst worden. De stedenkaart moet een 24-bit rgb, png bestnad zijn, met dezelfde afmeting als de wereldafmeting
+import_cities_map = Importeer stedenkaart png bestand
+cities_map_bestand = Stedenkaart bestand
+zoning_map = Aangepaste zoneringenkaart
+zoning_map_sug = Importeer een aangepaste zonereringskaart. De zoneringskaart bepaalt welke type POIs in bepaalde gebieden geplaatst kunnen worden. De zoneringskaart moet een 24-bit, rgb, png bestand zijn, met dezelfde afmeting als de wereldafmeting
+import_zoning_map = Importeer zoneringskaar png bestand
+zoning_map_bestand = Zoneringskaart bestand
+water_map = Aangepastte waterkaart
+water_map_sug = Importeer een aangepaste waterkaart. De waterkaart moet een 8-bit, grayscale, png bestand zijn met dezelfde afmeting als de wereldafmeting. Water wordt gegenereerd op het hoogteniveau van de kaart. 0 betekent geen water
+import_water_map = Importeer waterkaart png bestand
+water_map_bestand = waterkaart bestand
+splat = Aangepast splat bestand
+splat_sug = Importeer een aangepast splat bestand. Het splat bestand bevat gegevens over de wegen. Het splat bestand moet een 32-bit, rgba, png bestand zijn, met dezelfde afmeting als de wereldafmeting
+import_splat_bestand = Importeer splat png bestand
+splat_bestand = splat bestand
+radiation_map = Aangepaste stralingskaart
+radiation_map_sug = Importeer een aangepaste stralingskaart. De stralingskaart bepaalt waar de straling is. De stralingskaart moet een 24-bit, rgb, png bestand zijn, met dezelfde afmeting als de wereldafmeting
+import_radiation_map = Importeer stralingskaart png bestand
+radiation_map_bestand = Stralingskaart bestand
+
+
+
+#TOOLS
+tools = Hulpmiddellen
+tools_name_sug = Handige hulpmiddelen voor kaartmakers
+png_raw = PNG naar RAW
+png_raw_sug = Converteer png hoogtekaart naar raw hoogtekaart
+import_hoogtekaart_png = Importeer hoogtekaart png bestand
+save_hoogtekaart_raw = Sla hoogtekaart raw bestand op
+raw_png16 = RAW naar 16-bit PNG
+raw_png16_sug = Converteer raw hoogtekaart naar 16-bit png hoogtekaart
+import_hoogtekaart_raw = Importeer hoogtekaart raw bestand
+save_hoogtekaart_png_16 = Sla hoogtekaart 16-bit png bestand op
+raw_png8 = RAW naar 8-bit PNG
+raw_png8_sug = Converteer raw hoogtekaart naar 8-bit png hoogtekaart
+save_hoogtekaart_png_8 = Sla hoogtekaart 8-bit png bestand op
+biome_fix = Repareer Bioomkaart
+biome_fix_sug = Repareer biomes.png bestand. Vult missende plekken op, vervangt verkeerde kleuren, verwijdert alfakanaal, indien aanwezig
+default_biome = Standaard bioom
+save_biomes_map_png = Sla Bioomkaart png bestand op
+splat_fix = Repareer Splat
+splat_fix_sug = Separeer splat.png bestand. Controleert kleuren en alfa, voegt alfa kanaal toe wanneer afwezig
+save_splat_png = Sla splat png bestand op
+preview_gen = Preview generatie
+preview_gen_sug = Genereert een voorbeeld afbeelding van een wereldfolder
+waterinfo_gen = Waterinfo generatie
+waterinfo_gen_sug = genereert waterinfo.xml van een waterkaart. De waterkaart moet een 8-bit, grayscale, png afbeelding zijn met dezelfde afmeting als de wereldafmeting. Water wordt gegenereerd op het hoogteniveau van de kaart. 0 betekent geen water
+save_water_map_png = Sla waterinfo.xml bestand op
+
+
+
+#PREVIEW
+stats_sug = Laat generatie statistieken zien van POIs en hubs
+search_sug = Zoek POIs op naam (Ctrl + F)
+
+
+
+#GENERAL
+running = Bezig
+select = Selecteer
+
+
+
+#COMBOBOX VALUES
+large = Groot
+medium = gemiddeld
+small = klein
+none = geen
+few = weinig
+one = een
+lots = veel
+giant = gigantisch
+huge = enorm
+increased = verhoogd
+decreased = verminderd
+pine_forest = naaldbos
+desert = woestijn
+snow = sneeuw
+burnt_forest = verbrand bos
+wasteland = woestenij
+no = nee
+water = water
+mountain = berg
+flat = plat
+cities = steden
+wilderness = wildernis
+anywhere = overal
+little = klein
